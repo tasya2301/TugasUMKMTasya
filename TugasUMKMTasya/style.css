@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  background: #fff0f5;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #ff69b4;
+  color: white;
+}
+.item {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
